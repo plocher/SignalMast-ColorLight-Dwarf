@@ -697,7 +697,7 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="BOARD1" library="SPCoast" package="BOARD-SEEED10X10-NOHOLES" value="" x="0" y="0"/>
+<element name="BOARD1" library="SPCoast" package="BOARD-SEEED10X10-NOHOLES" value="10x10" x="0" y="0"/>
 <element name="GYR+" library="SPCoast" package="1X04_LOCK" value="CONNECTOR-GROVE-4P-2.0-3470130P1" x="22.86" y="3.81" smashed="yes" rot="R180"/>
 <element name="LED1" library="SPCoast" package="0603-LED" value="R" x="19.05" y="16.51" smashed="yes" rot="R180">
 <attribute name="OPL" value="19-217-R6C-AL1M2VY-3T" x="19.05" y="16.51" size="1.778" layer="27" rot="R180" display="off"/>
